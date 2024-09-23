@@ -1,0 +1,8 @@
+name: modulus_test
+
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - nvidia-modulus
+    - nvidia-modulus-sym
